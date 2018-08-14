@@ -28,7 +28,7 @@
   <body>
     <div class="container-fluid">
     	<div class="row">
-    		<div class="col-md-12">col-md-12............</div>
+    		<div class="col-md-12">col-md-1267897898797</div>
     	</div>
     
     </div>
