@@ -46,7 +46,7 @@
 		    <div class="item active">
 		      <img src="../Images/sumnail.jpg" alt="슬라이드1" style="width:100%;height:200px">
 		      <div class="carousel-caption">
-		        <h2>첫번째 슬라이드</h2>
+		        <h2>첫번째 슬라이드-수정</h2>
 		      </div>
 		    </div>
 		    <div class="item">		    
