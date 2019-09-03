@@ -35,7 +35,7 @@
   			
   			window.onresize= function(){
   				$("#display_width").html(window.innerWidth);
-  				  				
+  				  			
   			};
   			
   		});  	
@@ -59,6 +59,7 @@
  	.col-lg-*: 1200px 이하에서 세로로 표시 시작 
     -->
 	   <div class="row">
+	   	<h1>손재윤</h1>
 		  <div class="col-md-1">.col-md-1</div>
 		  <div class="col-md-1">.col-md-1</div>
 		  <div class="col-md-1">.col-md-1</div>
