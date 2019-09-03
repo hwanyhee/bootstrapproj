@@ -81,7 +81,7 @@
 					
 					<!-- Contextual button for informational alert messages -->
 					<span class="btn btn-info btn-xs disabled">Info</span>
-					<p class="btn btn-danger btn-lg active">P태그 입니다</p>
+					<p class="btn btn-danger btn-lg active">P태그 입니다. 다람쥐 헌 쳇바퀴에 타고파.</p>
 	    		</div>   		
     		</div>
     
