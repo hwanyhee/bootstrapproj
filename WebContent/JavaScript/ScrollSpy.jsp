@@ -52,7 +52,7 @@
 		        </div>
 		        <div class="collapse navbar-collapse navbar-scrollspy">
 		          <ul class="nav navbar-nav navbar-right">
-		            <li><a href="#menu1">메뉴1</a></li>
+		            <li><a href="#menu1">메뉴쁌</a></li>
 		            <li><a href="#menu2">메뉴2</a></li>
 		            <li><a href="#menu3">메뉴3</a></li>
 		          </ul>
